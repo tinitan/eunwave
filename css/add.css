@@ -1,0 +1,30 @@
+#map_view { width:100%; margin:0 auto; text-align:center; border:solid 2px green;}
+
+.add {
+	text-decoration: none;
+	color: black;
+	outline: none;
+	/*margin: 0px 10px 0px 20px;*/
+	text-align: center; 
+}
+
+.add { width:100%; margin:0 auto; text-align:center;}
+.add ul{ width:100%; margin:0 auto; text-align:left;}
+.add video { max-width:100%;  padding : 3px; }
+.add img { max-width:100%;  padding : 3px; border:solid 2px green;}
+
+.audio {
+  text-align: center;
+}
+
+.guitar {
+  
+  height: 200px;
+  width: 250px;
+  /*background: linear-gradient(#f6688e, #fab1c5);*/
+  background-image: url("https://leuke-plaatjes.com/files/leuke-plaatjes-animaties/muziek/leuke-plaatjes-animaties-muziek-793449202.gif");
+  text-align: center;
+  /*background-repeat: no-repeat;*/
+  background-size: 250px 200px;
+ 
+}
