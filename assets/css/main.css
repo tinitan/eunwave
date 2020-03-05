@@ -27,9 +27,6 @@ body {
 
 /* Basic */
 
-img {padding: 5px;
-     background: #FFFFFF;
-    }
 
 a {
 	color: #9FF;
@@ -64,12 +61,14 @@ h4, pre {
 
 
 img {
+    background: #FFFFFF;
+    padding: 20px;
     width: 95%;
     overflow: hidden;
     margin-top: 10px;
     margin-bottom: 10px;
-    margin-right: 5%;
-    margin-left: 2%;
+    margin-right: 1%;
+    margin-left: 1%;
     border-radius: 5px;
  
 }
