@@ -27,6 +27,9 @@ body {
 
 /* Basic */
 
+img {padding: 5px;
+     background: #FFFFFF;
+    }
 
 a {
 	color: #9FF;
@@ -44,14 +47,14 @@ p {
     color: #fff;
   
 }
-h2, span, p, h4, video {
+h2, span, p, h4, video,pre {
     margin-top: 0px;
     margin-bottom: 0px;
     margin-right: 0%px;
     margin-left: 2%;
 }
 
-h4 {
+h4, pre {
     font-size: 18px;
     font-weight: 700;
     color: #fff;
